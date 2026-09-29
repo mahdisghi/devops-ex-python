@@ -12,3 +12,5 @@ line two : main branch
 line three : main branch
 
 line one : feature branch 
+
+line two : feature branch
